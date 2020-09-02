@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureFunctionSettingsExtractor", "AzureFunctionSettingsExtractor\AzureFunctionSettingsExtractor.csproj", "{500ACFC8-7753-49A0-9C7C-C090BDC3A61D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{500ACFC8-7753-49A0-9C7C-C090BDC3A61D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{500ACFC8-7753-49A0-9C7C-C090BDC3A61D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{500ACFC8-7753-49A0-9C7C-C090BDC3A61D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{500ACFC8-7753-49A0-9C7C-C090BDC3A61D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85D95833-E774-4659-916E-CD891A6C95A0}
+	EndGlobalSection
+EndGlobal
